@@ -1,2 +1,2 @@
 # Slot Machine code 
-# Code is written in R
+ Code is written in R
